@@ -8,7 +8,7 @@ Files:
 
 [Denham_Project1_Excel-2.xlsx](Denham_Project1_Excel-2.xlsx) -- This displays all the analytics generated in SQL with explanations on what they mean and reccomendations on how to address it.
 
-Excelsior Mobile DB (1).xlsx -- This is the database given by Excelsior Mobile that includes all the data needed for the analytics.
+[Excelsior Mobile DB.xlsx](Excelsior Mobile DB.xlsx) -- This is the database given by Excelsior Mobile that includes all the data needed for the analytics.
 
 [ExcelsiorCreateTables.sql](ExcelsiorCreateTables.sql) -- Creates the tables for the database
 
