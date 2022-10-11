@@ -1,6 +1,6 @@
 # Excelsior-Mobil-SQL-Project
 
-This is a SQL project done on a small, fictional mobile company called Excelsior Mobile. I provided different analytics requested by the company such as the average data used for each city, the cities with the most amount of customers in it, names of customers with certain types of phones, what mobile plan brings in the most revenue, what area code uses the most minutes, and more using different SQL techniques. Additionally, the findings were put into Excel to be visualized and/or displayed. I explained the findings, pointing out areas where the company was excelling and weak points where the company could improve. I reccomended different strategies on how to excamine and appease these issues.
+This is a SQL project done on a small, fictional mobile company called Excelsior Mobile. I provided different analytics requested by the company such as the average data used for each city, the cities with the most amount of customers in it, names of customers with certain types of phones, what mobile plan brings in the most revenue, what area code uses the most minutes, and more using different SQL techniques. Additionally, the findings were put into Excel to be visualized and/or displayed. I explained the findings, pointing out areas where the company was excelling and weak points where the company could improve. I reccomended different strategies on how to examine and appease these issues.
 
 Files:
 
